@@ -4,7 +4,7 @@
 
 /**
  * main -  Entry
- * Returne: Alaways 0
+ * Return: Alaways 0
 */
 
 int main(void)
