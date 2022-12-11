@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- * main - prints alphabet in lower and upper case
- * Return: Always 0
+ * main - print the alphabet in the lower case and in the upper case, followed by a new line
+ * Return: 0
 */
 int mai(void)
 {
@@ -16,7 +16,7 @@ int mai(void)
 	while (c <= 'Z')
 	{
 		putchar(c);
-		c++
+		c++;
 	}
 	putchar('\n');
 	return (0);
