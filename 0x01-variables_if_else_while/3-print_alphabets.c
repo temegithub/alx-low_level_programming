@@ -3,7 +3,7 @@
  * main - print the alphabet in the lower case and in the upper case, followed by a new line
  * Return: 0
 */
-int mai(void)
+int main(void)
 {
 	char c = 'a';
 
